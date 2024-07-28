@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrWayne-007
+- 👋 Hi, I’m Sachintha
 - 👀 I’m interested in Ai sector
 - 🌱 I’m currently learning ML|NLP|backend dev
 - 💞️ I’m looking to collaborate on ML projects
